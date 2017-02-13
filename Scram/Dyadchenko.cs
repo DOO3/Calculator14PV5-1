@@ -5,8 +5,7 @@ using System.Text;
 
 namespace Scram
 {
-    public class Test
+    public class Dyadchenko
     {
-        public int Num;
     }
 }
